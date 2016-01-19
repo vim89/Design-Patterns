@@ -4,11 +4,11 @@ public class AnimalPlay{
 	
 	public static void main(String[] args){
 		
-		Animal sparky = new Dog();
+		Animal tommy = new Dog();
 		Animal tweety = new Bird();
 		Animal pengu = new Penguin();
 		
-		System.out.println("Dog: " + sparky.tryToFly());
+		System.out.println("Dog: " + tommy.tryToFly());
 		
 		System.out.println("Bird: " + tweety.tryToFly());
 		
@@ -16,9 +16,10 @@ public class AnimalPlay{
 		
 		// This allows dynamic changes for flyingType
 		
-		sparky.setFlyingAbility(new ItFlys());
+		// Avail flying ability to Dog tommy
+		tommy.setFlyingAbility(new ItFlys());
 		
-		System.out.println("Dog: " + sparky.tryToFly());
+		System.out.println("Dog: " + tommy.tryToFly());
 		
 	}
 	
