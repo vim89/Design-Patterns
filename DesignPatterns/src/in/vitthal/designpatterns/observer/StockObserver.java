@@ -18,6 +18,7 @@ public class StockObserver implements Observer {
 	
 	// Will hold reference to the StockGrabber object
 	
+	@SuppressWarnings("unused")
 	private Subject stockGrabber;
 	
 	public StockObserver(Subject stockGrabber){
