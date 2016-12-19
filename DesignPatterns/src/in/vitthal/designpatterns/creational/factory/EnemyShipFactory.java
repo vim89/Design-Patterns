@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.factory;
+package in.vitthal.designpatterns.creational.factory;
 
 //This is a factory thats only job is creating ships
 //By encapsulating ship creation, we only have one

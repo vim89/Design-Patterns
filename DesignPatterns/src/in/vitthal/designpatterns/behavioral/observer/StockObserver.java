@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.observer;
+package in.vitthal.designpatterns.behavioral.observer;
 
 //Represents each Observer that is monitoring changes in the subject
 

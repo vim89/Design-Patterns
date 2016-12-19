@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.factory;
+package in.vitthal.designpatterns.creational.factory;
 
 public abstract class EnemyShip {
 	

@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.observer;
+package in.vitthal.designpatterns.behavioral.observer;
 
 //This interface handles adding, deleting and updating
 //all observers 

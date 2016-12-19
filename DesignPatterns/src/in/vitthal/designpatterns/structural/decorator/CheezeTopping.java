@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.decorator;
+package in.vitthal.designpatterns.structural.decorator;
 
 public class CheezeTopping extends ToppingDecorator {
 

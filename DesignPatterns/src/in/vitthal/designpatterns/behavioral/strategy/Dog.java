@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.strategy;
+package in.vitthal.designpatterns.behavioral.strategy;
 
 public class Dog extends Animal{
 	

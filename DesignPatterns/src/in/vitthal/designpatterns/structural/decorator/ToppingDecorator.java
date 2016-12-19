@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.decorator;
+package in.vitthal.designpatterns.structural.decorator;
 
 //Has a "Has a" relationship with Pizza. This is an
 //Aggregation Relationship

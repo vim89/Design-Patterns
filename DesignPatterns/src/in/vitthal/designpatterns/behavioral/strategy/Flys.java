@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.strategy;
+package in.vitthal.designpatterns.behavioral.strategy;
 
 //The interface is implemented by many other
 //subclasses that allow for many types of flying

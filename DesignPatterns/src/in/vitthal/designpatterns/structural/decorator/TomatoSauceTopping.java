@@ -1,4 +1,4 @@
-package in.vitthal.designpatterns.decorator;
+package in.vitthal.designpatterns.structural.decorator;
 
 public class TomatoSauceTopping extends ToppingDecorator {
 
