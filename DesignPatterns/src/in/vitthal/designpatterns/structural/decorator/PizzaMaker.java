@@ -10,8 +10,7 @@ public class PizzaMaker {
 		// TODO Auto-generated method stub
 		System.out.println("Preparing pizza..");
 
-		Pizza myPizza = new Pepper(
-				new ChillyFlakesTopping(new TomatoSauceTopping(new CheezeTopping(new OnionTopping(new PlainDough())))));
+		Pizza myPizza = new ChillyFlakesTopping(new TomatoSauceTopping(new CheezeTopping(new OnionTopping(new PlainDough()))));
 
 		System.out.println("Ingrediants: " + myPizza.getDescription());
 		System.out.println("Price: " + myPizza.getPrice());
